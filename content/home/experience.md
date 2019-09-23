@@ -18,27 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Data Analyst"
+  company = "Brigham Young University - Idaho"
+  company_url = "byui.edu"
+  location = "Rexburg, Idaho"
+  date_start = "2018-02-28"
   date_end = ""
   description = """
-  Responsibilities include:
+  • Designed and implemented dashboards using R, Power BI, Excel, and SSRS in order to track progress and locate areas in need of improvement across several institutional departments.
   
-  * Analysing
-  * Modelling
-  * Deploying
+  • Forecasted future enrollments, occupancy, and applications using Excel and R based on historical trends obtaining results within 2% error.
+  
+  • Standardized methods of data subscription storage using Excel Macros to facilitate entry into institutional databases for thousands of individual Excel and PDF files.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Data Analyst Intern"
+  company = "BYU - Pathway Worldwide"
+  company_url = "https://byupathway.lds.org/"
+  location = "Salt Lake City, Utah"
+  date_start = "2019-04-22"
+  date_end = "2019-08-22"
+  description = """
+  • Devised and applied Power BI Dashboards for interdepartmental needs pulling from various data sources including Qualtrics and SQL Server, generating interactions and merges of many datasets.
+  
+  • Developed predictive models using R in order to find retention probabilities and risk for new students to the Pathway program. These models were incorporated into dashboards to communicate results.
+  
+  • Cleaned and wrangled data from SQL Server, R, Power BI, and Excel in order to help distribute data throughout the department and for executive decisions.
+  """
 
 +++
