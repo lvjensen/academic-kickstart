@@ -46,5 +46,18 @@ date_format = "Jan 2006"
   
   • Cleaned and wrangled data from SQL Server, R, Power BI, and Excel in order to help distribute data throughout the department and for executive decisions.
   """
+  
+[[experience]]
+  title = "Data Science Consultant"
+  company = "BYU - Idaho SCOT Program "
+  location = "Rexburg, Idaho"
+  date_start = "2019-01-16"
+  date_end = "2019-04-03"
+  description = """
+  
+  • Lead and collaborated with a group of other Data Science Consultants through critical thinking design the ideation and creation of the project proposal and implementation.
+
+  • Initiated and refined the development of a Shiny R app for text analysis for the SCOT program that saved time spent by employees and productively eased examination of class surveys for professors.
+  """
 
 +++
